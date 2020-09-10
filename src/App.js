@@ -6,7 +6,7 @@ function padTime(time) {
 }
 
 export default function App() {
-  const [title, setTitle] = useState(`C'est parti !!!`);
+  const [title, setTitle] = useState(`T'es chaud ?`);
   const [timeLeft, setTimeLeft] = useState(15 * 60);
   const [isRunning, setIsRunning] = useState(false);
   const intervalRef = useRef(null);
