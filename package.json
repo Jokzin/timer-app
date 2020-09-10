@@ -1,5 +1,5 @@
 {
-  "name": "Timer App",
+  "name": "timer-app",
   "version": "1.0",
   "private": true,
   "dependencies": {

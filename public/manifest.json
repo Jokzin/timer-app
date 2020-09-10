@@ -1,6 +1,6 @@
 {
-  "short_name": "timer-app",
-  "name": "App to help you time 15min task",
+  "short_name": "Timer App",
+  "name": "App to help you time 15min",
   "icons": [
     {
       "src": "favicon.ico",
