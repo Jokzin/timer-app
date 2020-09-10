@@ -19,6 +19,7 @@
     }
   ],
   "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "theme_color": "#1c2833",
   "background_color": "#1c2833"
